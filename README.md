@@ -8,7 +8,7 @@
 [![No API key](https://img.shields.io/badge/API%20key-not%20required-34d399?style=for-the-badge)](#)
 [![Built with Python](https://img.shields.io/badge/built%20with-Python%203.12-3776ab?style=for-the-badge&logo=python&logoColor=white)](#)
 
-### [▶️ Get it on Gumroad](#) &nbsp;`[Buy link — coming soon]`
+### [▶️ Get it on Gumroad](https://kuznicki6.gumroad.com/l/yspszp)
 
 </div>
 
@@ -56,7 +56,7 @@ A Flask backend serves a single-page HTML/JS frontend. Each scan pulls one batch
 
 ## ▶️ Get Market Scanner
 
-`[Buy link — coming soon]` — a Gumroad listing for this tool isn't live yet.
+### [▶️ Buy on Gumroad](https://kuznicki6.gumroad.com/l/yspszp)
 
 *This is a showcase repository — it contains the product overview and screenshots only. The full source is available with your purchase.*
 
